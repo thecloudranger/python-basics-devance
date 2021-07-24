@@ -42,7 +42,7 @@ INSERT INTO games (id, name, price, rate)
 VALUES (1,'Cuphead','185.0','95');
 
 SELECT * FROM games;  
-)
+
 ```
 * Each block must be run by itself. Highlight the block to run.
 * Open the Command Palette and select **SQLite: Run Selected Query**
